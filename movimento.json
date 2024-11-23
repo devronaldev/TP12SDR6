@@ -1,0 +1,20 @@
+{
+  "Voos": [
+    {
+      "Codigo": "VG456",
+      "Origem": "CGH",
+      "Destino": "POA",
+      "Horario": "14:35",
+      "Compania": "Varig",
+      "Operando": true
+    },
+    {
+      "Codigo": "AZ002",
+      "Origem": "VCP",
+      "Destino": "SSA",
+      "Horario": "18:00",
+      "Compania": "Azul",
+      "Operando": false
+    }
+  ]
+}

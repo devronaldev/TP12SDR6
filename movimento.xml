@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Movimento xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Voos>
+    <Voo>
+      <Codigo>VG456</Codigo>
+      <Origem>CGH</Origem>
+      <Destino>POA</Destino>
+      <Horario>14:35</Horario>
+      <Compania>Varig</Compania>
+      <Operando>true</Operando>
+    </Voo>
+    <Voo>
+      <Codigo>AZ002</Codigo>
+      <Origem>VCP</Origem>
+      <Destino>SSA</Destino>
+      <Horario>18:00</Horario>
+      <Compania>Azul</Compania>
+      <Operando>false</Operando>
+    </Voo>
+  </Voos>
+</Movimento>
